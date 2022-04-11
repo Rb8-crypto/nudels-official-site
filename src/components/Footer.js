@@ -6,7 +6,6 @@ import Logo from './Logo'
 import Facebook from '../Icons/Opensea'
 import Instagram from '../Icons/Instagram'
 import Twitter from '../Icons/Twitter'
-import LinkedIn from '../Icons/Discord'
 import Loading from './Loading'
 import Discord from '../Icons/Discord'
 
