@@ -150,7 +150,7 @@ const Banner = () => {
         <Title>  <br /> Partnerships & Collabs  </Title>
         <BtnContainer>
 
-         <a href="mailto:nudelsnft@gmail.com?subject=Partnerships and Collabs" >
+         <a href="mailto:nudelsnft@gmail.com?subject=Nudels Partnerships and Collabs" >
         <JoiNow>
             Contact US
         </JoiNow>
