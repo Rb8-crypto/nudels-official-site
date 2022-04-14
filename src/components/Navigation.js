@@ -183,7 +183,7 @@ const scrollTo = (id) => {
           </MenuItem>
         </Menu>
           <div className="desktop">
-          <Button text="View OpenSea" link="https://opensea.io/collection/nudelsexecutivepass" />
+          <Button text="Get Whitelist Pass" link="https://opensea.io/collection/nudelsexecutivepass" />
           </div>
 
       </NavBar>
