@@ -101,11 +101,11 @@ useLayoutEffect(() => {
   <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE NFTs" >
   An NFT is short for Non-Fungible Token. They are built using the same kind of programming as cryptocurrency, like Bitcoin or Ethereum. Nfts come in a variety of forms such as art, music, gifs, etc. These digital assets are uniquely stored encrypted on the crypto blockchain, authenticating and providing proof of ownership for each NFT. To have an NFT a crypto wallet will be needed.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE METAVERSE?" >
-  A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE MINT PRICE & SUPPLY?" >
+  The Minting price for Nudels Official Launch is 0.04 ETH & Whitelist is 0.005 ETH for pass holders during the Whitelist Pass Sale. The Total Supply of Nudels Collection is 8,888 NFTs.
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="WHY DO WE NEED ROYALTIES?" >
-  The royalty amount for Nudels are fixed at 8%. These royalties will be used to continue to grow the Nudels Team and organizing events that strengthen the Nudels community. 
+  The royalty amount for Nudels are fixed at 5%. These royalties will be used to continue to grow the Nudels Team and organizing events that strengthen the Nudels community. 
   </Accordion>
 </Box>
 <Box>
@@ -115,8 +115,8 @@ Metamask is a digital crypto wallet that is used to hold and trade cryptocurrenc
   <Accordion ScrollTrigger={ScrollTrigger} title="WHERE CAN I VIEW MY NFTs?" >
 Once minted or bought simply connect to your OpenSea account to view your NFTs.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE MINT PRICE & SUPPLY?" >
-The Minting price for Nudels Official Launch is 0.04 ETH & Whitelist is 0.005 ETH for pass holders during the Whitelist Pass Sale. The Total Supply of Nudels Collection is 8,888 NFTs.
+  <Accordion ScrollTrigger={ScrollTrigger} title="How can I work with Nudels?" >
+All collab, partnership, and other inquiries should be sent to nudelsnft(at)gmail.com. Our typical repsonses take place to monday-friday between the hours of 8am-8pm.
   </Accordion>
 </Box>
     </Container>
