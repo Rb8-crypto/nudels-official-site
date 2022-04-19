@@ -178,7 +178,7 @@ const scrollTo = (id) => {
           <MenuItem onClick={() => scrollTo('faq')}  >Faq</MenuItem>
           <MenuItem>
             <div className="mobile">
-            <Button text="Connect Wallet" link="https://google.com" />
+            <Button text="Get Whitelist Pass" link="https://opensea.io/collection/nudelsexecutivepass" />
             </div>
           </MenuItem>
         </Menu>
